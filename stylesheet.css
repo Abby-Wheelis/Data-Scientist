@@ -1,0 +1,21 @@
+div
+{
+    color: #733938;
+    border-width: 3px;
+    border-style: double;
+    background-color: #b5ccbd;
+    padding: 5px
+}
+
+
+h1
+{
+    color: #809d87;
+    font-family: monospace;
+    font-size: 36px
+}
+
+body
+{
+    background-color: #f3e1d5
+}
