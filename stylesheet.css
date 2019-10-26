@@ -4,7 +4,8 @@ div
     border-width: 3px;
     border-style: double;
     background-color: #b5ccbd;
-    padding: 5px
+    padding: 5px;
+    width: 800px;
 }
 
 
@@ -17,5 +18,6 @@ h1
 
 body
 {
-    background-color: #f3e1d5
+    background-color: #f3e1d5;
+    align: center;
 }
